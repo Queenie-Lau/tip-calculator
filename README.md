@@ -1,4 +1,4 @@
-# Pre-work - *Tippye*
+# Pre-work - *Tippy*
 
 **Tippy** is a tip calculator application for iOS.
 
@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://github.com/Queenie-Lau/tip-calculator/blob/main/tip-calc.gif' title='Video Walkthrough' width='1080' alt='Video Walkthrough' />
 
 ## Notes
 This is my first time working with segmented controls! I learned how to add actions that track whether the user has changed their tip amount and bill.
