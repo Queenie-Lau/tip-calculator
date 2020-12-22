@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Queenie-Lau/tip-calculator/blob/main/tip-calc.gif' title='Video Walkthrough' width='1080' alt='Video Walkthrough' />
+<img src='https://github.com/Queenie-Lau/tip-calculator/blob/main/tip-calc.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 ## Notes
 This is my first time working with segmented controls! I learned how to add actions that track whether the user has changed their tip amount and bill.
